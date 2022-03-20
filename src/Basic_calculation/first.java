@@ -1,4 +1,4 @@
-package com.javabasic;
+package Basic_calculation;
 
 public class first {
 
